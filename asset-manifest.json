@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DStream/static/css/main.63233bf3.css",
+    "main.js": "/DStream/static/js/main.5713bc8b.js",
+    "static/media/logo.png": "/DStream/static/media/logo.c1d210a410ac2b7e0bc3.png",
+    "index.html": "/DStream/index.html",
+    "main.63233bf3.css.map": "/DStream/static/css/main.63233bf3.css.map",
+    "main.5713bc8b.js.map": "/DStream/static/js/main.5713bc8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63233bf3.css",
+    "static/js/main.5713bc8b.js"
+  ]
+}
