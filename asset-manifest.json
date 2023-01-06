@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DStream/static/css/main.63233bf3.css",
-    "main.js": "/DStream/static/js/main.f6775d52.js",
+    "main.js": "/DStream/static/js/main.4717e32b.js",
     "static/media/logo.png": "/DStream/static/media/logo.c1d210a410ac2b7e0bc3.png",
     "index.html": "/DStream/index.html",
     "main.63233bf3.css.map": "/DStream/static/css/main.63233bf3.css.map",
-    "main.f6775d52.js.map": "/DStream/static/js/main.f6775d52.js.map"
+    "main.4717e32b.js.map": "/DStream/static/js/main.4717e32b.js.map"
   },
   "entrypoints": [
     "static/css/main.63233bf3.css",
-    "static/js/main.f6775d52.js"
+    "static/js/main.4717e32b.js"
   ]
 }
