@@ -19,7 +19,7 @@ const Navbar = () => {
       }}
     >
       <Link to="/" style={{ display: "flex", alignItems: "center" }}>
-        <img src={logo} alt="logo" height={40} />
+        <img src={logo} alt="logo" height={25} />
         {/* <Typography variant="h4" fontWeight="bold" color="#FC1503">
           DStream
         </Typography> */}
