@@ -6,7 +6,7 @@ import Videos from "./Videos";
 import { fetchFromAPI } from "../utils/fetchFromAPI";
 
 const Feed = () => {
-  const [selectedCategory, setSelectedCategory] = useState("New");
+  const [selectedCategory, setSelectedCategory] = useState("Programming");
   const [videos, setVideos] = useState([]);
 
   useEffect(() => {
